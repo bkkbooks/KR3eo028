@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3eo028/v1
+canonical_location: https://kanripo.org/bkk/KR3eo028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 軒轅黃帝治病秘法
+  identifiers:
+    krp: KR3eo028
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo028.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo028_000.yaml, hash: 'sha256:ac73cfdec971f068d6f8ef106762b014ba236614e54b0f3248a3acb9910de565'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo028_000.markers.yaml, hash: 'sha256:244e8e0b797be7ce5d1580777438f06699c0474b99330be3c1753c0fce7237e4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo028_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1671
+  label: 軒轅黃帝治病秘法事例
+  type: section
+  level: 1
+hash: sha256:8e59749113d1c7129e889dbe2e22baf59e1cc766e53fcaecd0185c85f3789326
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
