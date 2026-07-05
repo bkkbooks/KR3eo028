@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo028_000.yaml, hash: 'sha256:ac73cfdec971f068d6f8ef106762b014ba236614e54b0f3248a3acb9910de565'}
+  - {seq: 0, filename: KR3eo028_000.yaml, hash: 'sha256:e63f394e31cd670d457e7ba406b735ea938108385faaf0fa847473b7cf7ab6d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo028_000.markers.yaml, hash: 'sha256:244e8e0b797be7ce5d1580777438f06699c0474b99330be3c1753c0fce7237e4'}
+  - {seq: 0, role: markers, filename: assets/KR3eo028_000.markers.yaml, hash: 'sha256:cb9487e66578aaa1508762abb966de47155ef995ded779872c3057f21ef76c28'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,7 +31,4 @@ table_of_contents:
   label: 軒轅黃帝治病秘法事例
   type: section
   level: 1
-hash: sha256:8e59749113d1c7129e889dbe2e22baf59e1cc766e53fcaecd0185c85f3789326
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a840074635ca8fb83a645e250e6a7a4a5e40132b89bb00e370a07601b33d7db9
