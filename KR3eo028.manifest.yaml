@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo028/v1
 canonical_location: https://kanripo.org/bkk/KR3eo028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 軒轅黃帝治病秘法
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo028_000.yaml, hash: 'sha256:e63f394e31cd670d457e7ba406b735ea938108385faaf0fa847473b7cf7ab6d2'}
+  - {seq: 0, filename: KR3eo028_000.yaml, hash: 'sha256:81403f4e672a952f21f3091588e28e4bfdf7f6d2f848285da62567f2ed089706'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo028_000.markers.yaml, hash: 'sha256:cb9487e66578aaa1508762abb966de47155ef995ded779872c3057f21ef76c28'}
+  - {seq: 0, role: markers, filename: assets/KR3eo028_000.markers.yaml, hash: 'sha256:c0eae2a4ec812ee363077a4e2d56d3693a87848b9260cd371ff32b08abf09437'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,4 +31,7 @@ table_of_contents:
   label: 軒轅黃帝治病秘法事例
   type: section
   level: 1
-hash: sha256:a840074635ca8fb83a645e250e6a7a4a5e40132b89bb00e370a07601b33d7db9
+hash: sha256:c774ecd394bb54173850c72df9c3c37909e655948bbba838f553a6e66cf8d35c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
